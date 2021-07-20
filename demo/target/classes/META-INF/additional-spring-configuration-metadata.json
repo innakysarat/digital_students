@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "app.jwt.tokenExpirationAfterDays",
+      "type": "java.lang.String",
+      "description": "Description for app.jwt.tokenExpirationAfterDays."
+    },
+    {
+      "name": "app.jwt.tokenPrefix",
+      "type": "java.lang.String",
+      "description": "Description for app.jwt.tokenPrefix."
+    },
+    {
+      "name": "app.jwt.secretKey",
+      "type": "java.lang.String",
+      "description": "Description for app.jwt.secretKey."
+    }
+  ] }

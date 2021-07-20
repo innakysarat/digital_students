@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "app.jwt",
+      "type": "com.example.demo.jwt.Config",
+      "sourceType": "com.example.demo.jwt.Config"
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.jwt.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.jwt.Config"
+    },
+    {
+      "name": "app.jwt.secretKey",
+      "type": "java.lang.String",
+      "description": "Description for app.jwt.secretKey."
+    },
+    {
+      "name": "app.jwt.token-expiration-after-days",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.demo.jwt.Config"
+    },
+    {
+      "name": "app.jwt.token-prefix",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.jwt.Config"
+    },
+    {
+      "name": "app.jwt.tokenExpirationAfterDays",
+      "type": "java.lang.String",
+      "description": "Description for app.jwt.tokenExpirationAfterDays."
+    },
+    {
+      "name": "app.jwt.tokenPrefix",
+      "type": "java.lang.String",
+      "description": "Description for app.jwt.tokenPrefix."
+    }
+  ],
+  "hints": []
+}
