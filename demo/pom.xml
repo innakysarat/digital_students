@@ -109,7 +109,6 @@
 			<artifactId>json-path</artifactId>
 		</dependency>
     </dependencies>
-
 	<build>
 		<plugins>
 			<plugin>
